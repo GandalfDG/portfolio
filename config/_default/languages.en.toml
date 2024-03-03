@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Jack Case: Computer Engineer"
+title = "Jack Case"
 
 [params]
 displayName = "EN"
@@ -14,4 +14,8 @@ name = "Jack Case"
 image = "img/blowfish_logo.png"
 headline = "Computer engineer, Jack of all trades"
 bio = "A little bit about you"
-links = [ { email = "mailto:jackacase+portfolio@gmail.com" }, { github = "https://github.com/GandalfDG" }, { mastodon = "https://indieweb.social/@GandalfDG" } ]
+links = [ 
+  { email = "mailto:jackacase+portfolio@gmail.com" }, 
+  { github = "https://github.com/GandalfDG" },
+  { linkedin = "https://www.linkedin.com/in/jackacase/"},
+  { mastodon = "https://indieweb.social/@GandalfDG" } ]
