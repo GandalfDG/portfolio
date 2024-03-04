@@ -11,7 +11,7 @@ dateFormat = "2 January 2006"
 
 [author]
 name = "Jack Case"
-image = "img/blowfish_logo.png"
+image = "profile.jpg"
 headline = "Computer engineer, Jack of all trades"
 bio = "A little bit about you"
 links = [ 

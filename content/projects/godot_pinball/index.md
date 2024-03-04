@@ -2,10 +2,10 @@
 title: Virtual Pinball System in Godot Engine
 date: 2024-03-03T13:38:06-05:00
 draft: false
-summary: Developing a modern virtual pinball system in the open-source Godot engine
+summary: I'm developing a modern virtual pinball system in the open-source Godot game engine, and learning 3D game development as I go.
 ---
 
-{{< lead >}}I got into virtual pinball with Zen's *Pinball FX3*, and I looked around for open systems that would allow me to design my own pinball games.{{< /lead >}}
+{{< lead >}}I got into virtual pinball with Zen's [Pinball FX3](https://zenstudios.com/games/pinball-fx3/), and I looked around for open systems that would allow me to design my own pinball games.{{< /lead >}}
 The most active of the systems I saw was VPX, but I was dismayed when I installed it and starting messing around with it that it had a few major drawbacks from my perspective:
 
 1. **It only works on Windows<a href="#asterisk">\*</a>**
@@ -27,6 +27,8 @@ been developed to allow intuitive playfield design and testing in 3D. Through im
 physics behavior nodes. This has been a very interesting project to help me jump in at the deep end
 of 3D game development, and I hope to continue working on it and pick up some new contributors who
 can help add features, develop their own tables, and spread the word.
+
+![Playfield in Godot Editor](editor.png)
 
 Eventually I'd like to build a community around this project including developers, designers and players.
 Hopefully a system like this built in a modern game engine and focused on open-source will open the

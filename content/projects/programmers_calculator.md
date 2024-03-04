@@ -5,7 +5,9 @@ draft: true
 keywords:
     - foo
     - bar
-summary: Designed laser-cut enclosure, patched Linux drivers and wrote application software
+summary: | 
+    I designed and built a desktop programmer's calculator around a Raspberry Pi Zero, a mechanical keyboard matrix, and a character LCD.
+    The enclosure was designed with OpenSCAD for laser cutting, and the software was written in Python calling into patched Linux drivers.
 ---
 
 calc
