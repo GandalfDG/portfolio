@@ -6,7 +6,7 @@ keywords:
     - foo
     - bar
 showSummary: true
-summary: PCB design and assembly, C++ software with FreeRTOS
+summary: I Designed and assembled a custom PCB and wrote C++ software with FreeRTOS as part of my senior design project team.
 ---
 
 car
