@@ -28,7 +28,7 @@ physics behavior nodes. This has been a very interesting project to help me jump
 of 3D game development, and I hope to continue working on it and pick up some new contributors who
 can help add features, develop their own tables, and spread the word.
 
-![Playfield in Godot Editor](editor.png)
+![Playfield in Godot Editor](feature.png)
 
 Eventually I'd like to build a community around this project including developers, designers and players.
 Hopefully a system like this built in a modern game engine and focused on open-source will open the
