@@ -1,6 +1,7 @@
 ---
 title: FooBar
 date: {{ .Date }}
+timeframe: years
 draft: true
 keywords:
     - foo
