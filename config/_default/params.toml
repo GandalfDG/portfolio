@@ -37,7 +37,7 @@ disableTextInHeader = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "superman.jpg" # used in: hero, and card
+  homepageImage = "superman.webp" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
