@@ -89,6 +89,6 @@ timing-loop-based implementation that our group used in that previous incarnatio
 Our group demonstrated our final product at the [Imagine RIT](https://www.rit.edu/imagine/) festival where our car was able to successfully navigate the track in a respectable time. If there had been more time to finish the software I would have implemented more advanced control
 and spent more time tuning, but at the end of the day we achieved our goal.
 
-<div style="position: relative; padding-top: 56.25%;"><iframe title="Autonomous Car Demo" width="100%" height="100%" src="https://spectra.video/videos/embed/bc7cac72-b29d-44c9-a888-4687f2adf902?loop=1&amp;muted=1&amp;warningTitle=0&amp;peertubeLink=0&amp;p2p=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;"></iframe></div>
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Autonomous Car Demo" width="100%" height="100%" src="https://spectra.video/videos/embed/bc7cac72-b29d-44c9-a888-4687f2adf902?loop=1&amp;muted=1&amp;warningTitle=0&amp;peertubeLink=0&amp;p2p=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" class="rounded-md"></iframe></div>
 
 ![The final car](msd_car_full.png "The final car assembled")
