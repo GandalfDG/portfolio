@@ -1,11 +1,12 @@
 ---
-title: Educational Autonomous Vehicle Platform
+title: Educational Autonomous Vehicle
 date: 2019
-timeframe: "2018 - 2019"
+params:
+    timeframe: hello?
+    # timeframe: "2018 - 2019"
 draft: true
 keywords:
-    - foo
-    - bar
+    - "2018 - 2019"
 showSummary: true
 summary: I designed and assembled a custom PCB and wrote C++ software with FreeRTOS for a small autonomous vehicle as part of my senior design project team.
 ---
@@ -38,7 +39,41 @@ Now the NXP cup seems to be back with a newly designed vehicle, but at the time 
 
 ## Design Requirements
 
+The main requirements of the project were to design a vehicle which would be able to navigate the existing track pieces, and use
+some of the existing common hardware from the original car, such as batteries, cameras, and microcontroller.
+Beyond this the goal was to be able to produce the chassis with common makerspace
+tools, such as a 3D printer and laser cutter. The BOM cost was also a factor, with a desired cost under $300 per vehicle.
+The original car was also prone to burning itself up with undersized traces on the interface PCB and undersized motors not
+rated for the full power of the battery. Not ideal for an expensive toy car for students to use.
+
+With these requirements in mind the MechEs set off on designing the chassis, and the electrical and CEs (myself included) started
+picking electrical components to drive the car and interface with the K64 microcontroller board.
+
 ## PCB Design
+
+With the drive motors and other required components picked out, I started designing the interface PCB to connect the K64 microcontroller 
+board to the car's sensors and actuators. The PCB was designed to sandwich onto the microcontroller board
+in the style of an Arduino shield to eliminate the need for jumper wires to connect the board and the car (which was another
+issue with the original car). I had previously designed a PCB in Eagle for a class project, but this time I decided to try out
+the open-source alternative, [KiCad](https://www.kicad.org/). I appreciated the workflow of designing a schematic first and then
+assigning footprints to the components after, which is opposite the approach of Eagle. I found this a lot more intuitive.
+
+Creating the schematic involved selecting the pin assignments for all of the microcontroller connections, which involved a bit of
+guess and check, since the microcontroller has a lot of integrated peripherals, but only certain ones can be assigned to certain pins.
+I was eventually able to figure out a way to have all of the needed peripherals connected with some extra pins to spare. In total, each
+drive motor needed two pins capable of PWM to control their speed and direction, and two pins for their integrated quadrature encoders. 
+The steering servo needed a PWM pin, the camera needed three pins for clock, control, and data. Additionally an I2C bus was exposed for
+connecting peripherals, and later on SPI was also exposed for a bluetooth module that could be used for wireless communication.
+
+![PCB schematic designed in KiCad](schematic.png "PCB schematic designed in KiCad")
+
+After the schematic came the actual PCB layout. Since the car was supposed to be easy to assemble, I wanted to use all through-hole
+components. Additionally I wanted to keep within the size of the K64 board itself. Within those parameters I was able to design a
+compact two-layer board with oversized traces for the high-current areas.
+
+![3D render of the final PCB layout](PCB_side.PNG "3D render of the final PCB layout")
+
+![Fully assembled PCB mounted to the K64 board](pcb_final.jpg "Fully assembled PCB mounted to the K64 board")
 
 ## Software Implementation
 
