@@ -4,7 +4,7 @@ date: 2019
 params:
     timeframe: hello?
     # timeframe: "2018 - 2019"
-draft: true
+draft: false
 keywords:
     - "2018 - 2019"
 showSummary: true
@@ -73,7 +73,22 @@ compact two-layer board with oversized traces for the high-current areas.
 
 ![3D render of the final PCB layout](PCB_side.PNG "3D render of the final PCB layout")
 
-![Fully assembled PCB mounted to the K64 board](pcb_final.jpg "Fully assembled PCB mounted to the K64 board")
+Not to brag, but it only took 2 runs of the board to get it to fit on top of the microcontroller properly 😅
+
+![Fully assembled PCB mounted to the K64 board](pcb_final.jpg "Fully assembled PCB mounted to the K64 board (pay no attention to the bodge scratches in the soldermask 🙈)")
 
 ## Software Implementation
 
+The software I wrote to demonstrate the car was written in C++ using FreeRTOS. As I had done this project in
+my previous year at RIT I took this as an opportunity to learn new things. In this case, writing in C++ instead
+of C which I had used in most of my school projects to this point as well as using FreeRTOS rather than the fragile
+timing-loop-based implementation that our group used in that previous incarnation.
+
+## Demonstration
+
+Our group demonstrated our final product at the [Imagine RIT](https://www.rit.edu/imagine/) festival where our car was able to successfully navigate the track in a respectable time. If there had been more time to finish the software I would have implemented more advanced control
+and spent more time tuning, but at the end of the day we achieved our goal.
+
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Autonomous Car Demo" width="100%" height="100%" src="https://spectra.video/videos/embed/bc7cac72-b29d-44c9-a888-4687f2adf902?loop=1&amp;muted=1&amp;warningTitle=0&amp;peertubeLink=0&amp;p2p=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;"></iframe></div>
+
+![The final car](msd_car_full.png "The final car assembled")
