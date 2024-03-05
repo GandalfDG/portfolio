@@ -3,6 +3,8 @@ title: Virtual Pinball System in Godot Engine
 date: 2024-03-03T13:38:06-05:00
 draft: false
 summary: I'm developing a modern virtual pinball system in the open-source Godot game engine, and learning 3D game development as I go.
+keywords:
+    - "2023 - Present"
 ---
 
 {{< lead >}}I got into virtual pinball with Zen's [Pinball FX3](https://zenstudios.com/games/pinball-fx3/), and I looked around for open systems that would allow me to design my own pinball games.{{< /lead >}}

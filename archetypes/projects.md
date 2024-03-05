@@ -7,4 +7,6 @@ keywords:
     - bar
 summary: lorem ipsum
 showSummary: true
+params:
+    timeframe: years
 ---
