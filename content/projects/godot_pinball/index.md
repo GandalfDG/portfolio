@@ -49,11 +49,6 @@ can help add features, develop their own tables, and spread the word.
 
 {{</gallery>}}
 
-Eventually I'd like to build a community around this project including developers, designers and players.
-Hopefully a system like this built in a modern game engine and focused on open-source will open the
-door to a whole new crop of pinball designers who like me might have wanted something a bit more
-user-friendly than VPX.
-
 ## Currently Implemented Elements
 
 - Flippers
@@ -68,7 +63,14 @@ user-friendly than VPX.
 - Bezier curve-defined ramps
 - Playfield cutout generator using *Constructive Solid Geometry* (CSG)
 
-## Follow me on **Mastodon** for updates on the project
+## Roadmap
+
+Eventually I'd like to build a community around this project including developers, designers and players.
+Hopefully a system like this built in a modern game engine and focused on open-source will open the
+door to a whole new crop of pinball designers who like me might have wanted something a bit more
+user-friendly than VPX.
+
+### Follow me on **Mastodon** for updates on the project
 
 <iframe src="https://indieweb.social/@GandalfDG/111161833076030344/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="800" allowfullscreen="allowfullscreen"></iframe><script src="https://indieweb.social/embed.js" async="async"></script>
 
