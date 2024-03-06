@@ -22,6 +22,8 @@ The most active of the systems I saw was VPX, but I was dismayed when I installe
 
     Table files, ROMs and visual packs need to be put in their proper folders and sometimes visual basic scripts need editing in order to get tables to work properly.
 
+## My Solution
+
 With these and other issues in mind, I decided to start work on a new, modern virtual pinball system
 in the open-source game engine, [Godot](https://godotengine.org).
 While this project is still very much a work in progress, several reusable elements and utilities have
@@ -30,14 +32,29 @@ physics behavior nodes. This has been a very interesting project to help me jump
 of 3D game development, and I hope to continue working on it and pick up some new contributors who
 can help add features, develop their own tables, and spread the word.
 
-![Playfield in Godot Editor](feature.png)
+<video crossorigin="anonymous" controls autoplay loop>
+    <source src="https://cdn.masto.host/indiewebsocial/media_attachments/files/111/327/174/740/500/054/original/62271e3abb029fd3.mp4" type="video/mp4" />
+</video>
+
+<video crossorigin="anonymous" controls loop>
+    <source src="https://cdn.masto.host/indiewebsocial/media_attachments/files/111/269/250/333/736/974/original/7ddeb95ef25a36d5.mp4" type="video/mp4" />
+</video>
+
+{{< gallery >}}
+    <img src="rampgen.png" class="grid-w50">
+    <img src="rampgen2.png" class="grid-w50">
+    <img src="rampgen3.png" class="grid-w50">
+    <img src="ballguide1.png" class="grid-w50">
+    <img src="insert.png" class="grid-w50">
+
+{{</gallery>}}
 
 Eventually I'd like to build a community around this project including developers, designers and players.
 Hopefully a system like this built in a modern game engine and focused on open-source will open the
 door to a whole new crop of pinball designers who like me might have wanted something a bit more
 user-friendly than VPX.
 
-### Currently Implemented Elements:
+## Currently Implemented Elements
 
 - Flippers
 - Pop Bumpers
@@ -47,11 +64,11 @@ user-friendly than VPX.
 - Ball Guides
 - Playfield Inserts
 
-### Elements in Progress:
+## Elements in Progress
 - Bezier curve-defined ramps
 - Playfield cutout generator using *Constructive Solid Geometry* (CSG)
 
-### Follow me on Mastodon for updates on the project
+## Follow me on **Mastodon** for updates on the project
 
 <iframe src="https://indieweb.social/@GandalfDG/111161833076030344/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="800" allowfullscreen="allowfullscreen"></iframe><script src="https://indieweb.social/embed.js" async="async"></script>
 
