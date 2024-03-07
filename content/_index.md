@@ -2,7 +2,7 @@
 title: "Jack Case's Project Portfolio"
 description: "Landing page for Jack's project portfolio"
 images:
-    - profile.jpg
+    - /profile.jpg
 ---
 
 {{< lead >}}
