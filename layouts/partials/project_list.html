@@ -1,0 +1,11 @@
+{{ $recentArticles := 5 }}
+{{ $recentArticles = .Site.Params.homepage.showRecentItems }}
+
+<h2 class="mt-8 text-2xl font-extrabold mb-10">Projects</h2>
+
+<section class="space-y-10 w-full">
+  {{ range first $recentArticles (.Paginate (where .Site.RegularPages "Type" "in" "projects")).Pages
+  }}
+  {{ partial "article-link/simple.html" . }}
+  {{ end }}
+</section>
