@@ -13,4 +13,4 @@ With that goal in mind I created this site to show off my skills **outside of pu
 and personal projects that I've worked on over the years that have really captured my interest and helped me to learn
 new things beyond what I work on at my day job.
 
-#### Take a look at my [**resume**](/jack_case_resume.pdf) and get in touch via my social links above.
+#### Take a look at my [**resume**](/jack_case_resume.pdf) and [**skills**](/skills), and get in touch via my social links above.
