@@ -16,8 +16,12 @@
  weight = 10
 
 [[main]]
-name = "Professional Experience"
+name = "Experience"
 pageRef = "experience"
+
+[[main]]
+name = "Skills"
+pageRef = "skills"
 
 #[[main]]
 #  name = "Parent"
