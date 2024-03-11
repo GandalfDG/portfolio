@@ -18,10 +18,17 @@
 [[main]]
 name = "Experience"
 pageRef = "experience"
+weight = 20
 
 [[main]]
 name = "Skills"
 pageRef = "skills"
+weight = 30
+
+[[main]]
+name = "Blog"
+pageRef = "posts"
+weight = 40
 
 #[[main]]
 #  name = "Parent"
