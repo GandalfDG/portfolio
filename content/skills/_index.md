@@ -57,7 +57,7 @@ Be sure to take a look at my [other skills](#other-skills)!
 ## Other Skills
 <hr class="mb-3">
 
-- 3D modelling in Blender
+- [3D modelling in Blender](/skills/blender)
     - Polygonal modelling
     - Organic sculpting
 - 3D game development in Godot Engine
