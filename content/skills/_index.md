@@ -62,7 +62,7 @@ Be sure to take a look at my [other skills](#other-skills)!
     - Organic sculpting
 - 3D game development in Godot Engine
     - [Virtual Pinball System](/projects/godot_pinball)
-- CAD
+- [CAD](/skills/cad)
     - FreeCAD
     - OpenSCAD
     - CADQuery
