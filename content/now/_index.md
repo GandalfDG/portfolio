@@ -16,7 +16,7 @@ simplified implementation should give a better basis for the physics interaction
 
 - Rollerblading
     - switched out 4x80 frames for 3x110
-    - took them out to the Boston Marathon route to shoot some photos near Heartbreak Hill in Newton
+    - took them out to the Boston Marathon route to shoot some photos near Heartbreak Hill in Newton - [blog post here](/posts/boston_marathon_24)
     - still dialing in the frame positioning to get rid of unwanted ankle supination
 
 ## 🎧 Listening To
