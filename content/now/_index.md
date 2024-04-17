@@ -15,6 +15,9 @@ simplified implementation should give a better basis for the physics interaction
 ## 🌞 Touching Grass
 
 - Rollerblading
+    - switched out 4x80 frames for 3x110
+    - took them out to the Boston Marathon route to shoot some photos near Heartbreak Hill in Newton
+    - still dialing in the frame positioning to get rid of unwanted ankle supination
 
 ## 🎧 Listening To
 
@@ -29,5 +32,5 @@ simplified implementation should give a better basis for the physics interaction
 
 ## 📺 Watching
 
-- Community S1
+- Community S1 (rewatch)
 - Broad City S4
