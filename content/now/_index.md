@@ -12,7 +12,9 @@ signal up" methodology that Godot prefers. I definitely tried to add some
 fancy features prematurely and made physics code harder to follow. This
 simplified implementation should give a better basis for the physics interactions.
 
-Adding a *now* page to my site, as suggested by someone on Mastodon. [what is a now page?](https://nownownow.com/about)
+## 🌞 Touching Grass
+
+- Rollerblading
 
 ## 🎧 Listening To
 
@@ -24,3 +26,8 @@ Adding a *now* page to my site, as suggested by someone on Mastodon. [what is a 
 
 - Going Postal - Terry Pratchett (Audiobook)
 - Dune Messiah - Frank Herbert
+
+## 📺 Watching
+
+- Community S1
+- Broad City S4
