@@ -6,6 +6,6 @@
 <section class="space-y-10 w-full">
   {{ range first $recentArticles (.Paginate (where .Site.RegularPages "Type" "in" "projects")).Pages
   }}
-  {{ partial "article-link/simple.html" . }}
+  {{ partial "project-simple-meta" . }}
   {{ end }}
 </section>
