@@ -6,3 +6,7 @@ tags:
 date: {{ .Date }}
 draft: true
 ---
+
+{{< lead >}}
+
+{{< /lead >}}
