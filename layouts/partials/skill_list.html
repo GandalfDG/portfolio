@@ -1,0 +1,11 @@
+{{ $recentArticles := 5 }}
+{{ $recentArticles = .Site.Params.homepage.showRecentItems }}
+
+<section class="space-y-10 w-full">
+
+  {{ range first $recentArticles (.Paginate (where .Site.RegularPages "Type" "in" "skills")).Pages
+  }}
+  {{ partial "project-simple-meta" . }}
+  {{ end }}
+
+</section>
