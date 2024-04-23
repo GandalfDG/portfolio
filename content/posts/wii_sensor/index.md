@@ -5,7 +5,7 @@ tags:
     - electronics
     - repair
 date: 2024-04-23T10:14:51-04:00
-draft: true
+draft: false
 ---
 
 {{< lead >}}
@@ -39,3 +39,14 @@ resistor from the donor PCB (not a resistor value I had lying around) and then s
 knife to sever the ground trace on the side without the resistor, and then scraped away the solder mask on either side of
 the cut trace. Then I applied some solder to the newly exposed copper and soldered the extra resistor in place. I checked
 my connections with the multimeter to ensure I hadn't left a short between the resistor legs and snapped the case back together.
+
+![Bodged resistor on PCB](repaired.jpg "Resistor bodged onto the PCB")
+
+## Conclusion
+
+I wouldn't recommend getting one of these crummy replacement sensor bars, but I'm glad I was able to make one working one
+out of two faulty ones. It was tricky getting the solder mask off the board without scraping away the tiny copper layer so
+even this repair isn't a great fix, but for reviving a barely-working Wii it's done the job with minimal investment.
+
+Also I just want to mention the Pinecil soldering iron I used for this project as a really excellent low-cost soldering
+iron that can run on almost any power source and heats up in seconds. Check it out at [pine64.com](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/).
