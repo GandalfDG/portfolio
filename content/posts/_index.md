@@ -1,4 +1,8 @@
-# See what I'm up to [now](/now)
+---
+title: Jack's Blog
+---
+
+## See what I'm up to [now](/now)
 [What is a *now page*?](https://nownownow.com/about)
 
-# Latest Posts
+## Latest Posts

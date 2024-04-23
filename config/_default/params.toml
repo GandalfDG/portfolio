@@ -12,7 +12,7 @@ autoSwitchAppearance = false
 enableSearch = false
 enableCodeCopy = false
 
-# mainSections = ["section1", "section2"]
+MainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -38,7 +38,7 @@ smartTOC = true
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "superman.webp" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts"
