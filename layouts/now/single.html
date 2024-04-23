@@ -22,7 +22,7 @@
     </h1>
     <h2 class="mt-2 text-sm text-neutral-400">Last updated {{ .Date | time.Format ":date_medium" }}</h2>
     <div class="mt-1 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
-      {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
+      <!-- {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }} -->
     </div>
 
     {{ $authorsData := .Site.Data.authors }}
