@@ -1,11 +1,15 @@
 ---
 title: What's Happening Now?
 layout: single
-date: 2024-04-23T09:51:16-04:00
+date: 2024-04-25T09:18:01-04:00
 draft: false
 ---
 
 ## 🛠️ Working On
+
+Starting to work more seriously on helping my wife produce musical children's
+content for her *Ms. Kiersten's Music Corner* concept. Learning to shoot footage
+for chroma keying, and designing 3D sets for backgrounds in Blender.
 
 Reimplementing the PhysicsBehavior node and its derived nodes for the
 [Godot Pinball Toolkit](/projects/godot_pinball) to follow the "call down
@@ -25,6 +29,7 @@ simplified implementation should give a better basis for the physics interaction
 - The Beths
 - The Voidz
 - Parquet Courts
+- Caroline Rose
 
 ## 📖 Reading
 
