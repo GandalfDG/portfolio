@@ -2,8 +2,8 @@
 title: 'eBay Wii Sensor Bar Repair'
 summary: I got a cheap Wii sensor bar on eBay with an obvious design flaw. Here's how I fixed it.
 tags:
-    - electronics
-    - repair
+    - Electronics
+    - Repair
 date: 2024-04-23T10:14:51-04:00
 draft: false
 ---
