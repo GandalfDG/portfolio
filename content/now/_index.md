@@ -1,11 +1,14 @@
 ---
 title: What's Happening Now?
 layout: single
-date: 2024-04-29T09:23:26-04:00
+date: 2024-05-14T11:59:37-04:00
 draft: false
 ---
 
 ## 🛠️ Working On
+
+Creating a custom design for Kiersten's website to better match her personal brand.
+I started with a Hugo template but it was limited and didn't really match her style.
 
 Starting to work more seriously on helping my wife produce musical children's
 content for her *Ms. Kiersten's Music Corner* concept. Learning to shoot footage
@@ -26,6 +29,7 @@ simplified implementation should give a better basis for the physics interaction
 
 ## 🎧 Listening To
 
+- Atavista - Childish Gambino
 - The Beths
 - The Voidz
 - Parquet Courts
@@ -33,10 +37,13 @@ simplified implementation should give a better basis for the physics interaction
 
 ## 📖 Reading
 
-- Going Postal - Terry Pratchett (Audiobook)
+### In Progress
 - Dune Messiah - Frank Herbert
+
+### Finished
+- Going Postal - Terry Pratchett (Audiobook)
 
 ## 📺 Watching
 
-- Community S1 (rewatch)
+- Community S2 (rewatch)
 - Broad City S5
