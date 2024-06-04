@@ -6,7 +6,8 @@ draft: false
 ---
 ## 🛠️ Working On
 
-Creating a custom design for Kiersten's website to better match her personal brand. I started with a Hugo template but it was limited and didn't really match her style.
+Creating a custom design for Kiersten's website to better match her personal brand. I started with a Hugo template but it was limited and didn't really match her style. Check it out at [mskiersten.com](https://mskiersten.com)
+
 
 Starting to work more seriously on helping my wife produce musical children's content for her _Ms. Kiersten's Music Corner_ concept. Learning to shoot footage for chroma keying, and designing 3D sets for backgrounds in Blender.
 
