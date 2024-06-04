@@ -2,8 +2,6 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to main)
   repo: GandalfDG/portfolio
-  site_domain: jack-case.pro
-  auth_endpoint: auth
 
 
 # This line should *not* be indented
