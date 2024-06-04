@@ -37,8 +37,7 @@ Reimplementing the PhysicsBehavior node and its derived nodes for the
 
 ### Finished
 
-- 
-[Rental Person Who Does Nothing](https://app.thestorygraph.com/books/c7b5f7a6-586d-4a42-b7f6-7bf8256279ed) - Shoji Morimoto
+- [Rental Person Who Does Nothing](https://app.thestorygraph.com/books/c7b5f7a6-586d-4a42-b7f6-7bf8256279ed) - Shoji Morimoto
 - Going Postal - Terry Pratchett (Audiobook)
 
 ## 📺 Watching
