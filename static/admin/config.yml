@@ -11,6 +11,7 @@ collections:
   - name: 'post' # Used in routes, e.g., /admin/collections/blog
     label: 'Post' # Used in the UI
     folder: 'content/posts' # The path to the folder where the documents are stored
+    path: '{{slug}}/index'
     create: true # Allow users to create new documents in this collection
     slug: '{{slug}}' # Filename template, e.g., yyyy-MM-dd-title.md
     fields: # The fields for each document, usually in front matter
@@ -20,4 +21,17 @@ collections:
       # - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
       # - { label: 'Rating (scale of 1-5)', name: 'rating', widget: 'number' }
       - { label: 'Tags', name: 'tags', widget: 'list'}
+      - { label: 'Draft', name: 'draft', widget: boolean, default: true}
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'pages'
+    files:
+      - name: now
+        label: Now Page
+        file: 'content/now/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: layout, name: 'layout', widget: 'hidden', default: 'single'}
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+
