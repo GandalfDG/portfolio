@@ -2,6 +2,11 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to main)
   repo: GandalfDG/portfolio
+  api_root: 'https://api.github.com'
+  site_domain: jack-case.pro
+  base_url: 'https://api.netlify.com'
+  auth_endpoint: auth
+  
 
 
 # This line should *not* be indented
