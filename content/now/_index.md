@@ -1,18 +1,21 @@
 ---
 title: What's Happening Now?
 layout: single
-date: 2024-06-04T14:44:37-04:00
+date: 2024-07-05T15:06:03-04:00
 draft: false
 ---
 ## 🛠️ Working On
+
+Bought myself a pinball machine, a Data East Time Machine. Having a lot of fun playing it
+and have already repaired some minor issues and ordered parts for other fixes. I've started
+reverse engineering the ROM with Ghidra to see about fixing some bugs and possibly adding
+QOL features like a timed ball-save.
+![Time Machine Pinball](time_machine.jpg)
 
 Creating a custom design for Kiersten's website to better match her personal brand. I started with a Hugo template but it was limited and didn't really match her style. Check it out at [mskiersten.com](https://mskiersten.com)
 
 
 Starting to work more seriously on helping my wife produce musical children's content for her _Ms. Kiersten's Music Corner_ concept. Learning to shoot footage for chroma keying, and designing 3D sets for backgrounds in Blender.
-
-Reimplementing the PhysicsBehavior node and its derived nodes for the
-[Godot Pinball Toolkit](/projects/godot_pinball) to follow the "call down signal up" methodology that Godot prefers. I definitely tried to add some fancy features prematurely and made physics code harder to follow. This simplified implementation should give a better basis for the physics interactions.
 
 ## 🌞 Touching Grass
 
@@ -44,6 +47,11 @@ Reimplementing the PhysicsBehavior node and its derived nodes for the
 
 - Community S2 (rewatch)
 - Broad City S5
+
+# The Back Burner
+
+Reimplementing the PhysicsBehavior node and its derived nodes for the
+[Godot Pinball Toolkit](/projects/godot_pinball) to follow the "call down signal up" methodology that Godot prefers. I definitely tried to add some fancy features prematurely and made physics code harder to follow. This simplified implementation should give a better basis for the physics interactions.
 
 
 
