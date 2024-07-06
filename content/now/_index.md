@@ -1,7 +1,7 @@
 ---
 title: What's Happening Now?
 layout: single
-date: 2024-07-06T15:06:03-04:00
+date: 2024-07-05T15:06:03-04:00
 draft: false
 ---
 ## 🛠️ Working On
