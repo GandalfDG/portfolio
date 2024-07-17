@@ -41,11 +41,40 @@ about an IP that the machine is tied to.
 ![My Time Machine set up in the corner of our basement. The lights are off to better showcase the warm, 
     incandescent glow coming from the machine.](feature_uncropped.jpg "Time Machine on the day we got it home")
 
-## Transport
+## Packing and Transport
 Getting this massive thing on to and off of a truck and into our basement was a bit of an ordeal.
 I intended to rent a van from Home Depot to transport the pin in, but when I arrived they only
 had flatbed trucks available. While this worked, it resulted in having to lift the machine to nearly
-shoulder-height rather than loading it into a much more reasonable vehicle. 
+shoulder-height rather than loading it into a much more reasonable vehicle. When we arrived the seller
+gave a whole tour around the machine, let us play a few games, and provided us with some extra balls
+and LED bulbs to replace more of the incandescents with. He then helped us wrap the game up in moving
+blankets and plastic wrap, fold down the head and remove the legs. Getting the machine on the truck was
+probably not done in an OSHA-compliant way but everyone survived. With the machine secured down with
+ratchet straps we hit the road back toward home. With how heavy the machine turned out to be we weren't
+looking forward to the unload, and it didn't help that there were some ominous rainclouds, so we definitely
+wanted to get unloaded and inside as quickly as possible.
+
+A good friend of ours was waiting when we arrived to help with the unloading process and I can't thank her
+enough for her help, we really couldn't have done it without her. We managed to lower the machine down onto
+a hand truck to help wheel it across the driveway to the basement door, as well as get it down three steps
+without any major injuries. It was at this point that things got more complicated. I didn't know it at the
+time, but it turns out that this vintage of Data East machines have much wider backboxes than those of other
+manufacturers. While the cabinet could fit through the door no problem, the backbox was just a fraction of an
+inch too wide for the doorway, even with the door taken off of its hinges. So, we had to remove the backbox from
+its hinges and put it through the door sideways. In the future I will probably fully disconnect the backbox
+from the cabinet but it was starting to rain and I didn't want to cause any electrical problems that would
+prevent the game from working once it was set up.
+
+<figure>
+    {{< carousel images="*connections.jpg" aspectRatio="16-9" interval="2500" >}}
+    <figcaption>There are a lot of connections between the backbox and the cabinet.</figcaption>
+</figure>
+
+With the backbox detached mechanically, but with all of the wiring harnesses still attached we were able to
+slowly shimmy the cabinet along the floor in a vertical orientation, and then move the backbox along a few
+inches and repeat. There was one more door that we had to clear before we could reattach the backbox. At this
+point one of our neighbors happened by and offered to help with the process as well. With the four of us
+we managed to get the machine the rest of the way to its final location and get the backbox and legs reinstalled.
 
 ## Setup
 
