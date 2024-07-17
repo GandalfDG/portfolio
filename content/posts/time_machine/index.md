@@ -5,8 +5,8 @@ tags:
     - 'Pinball'
     - 'Electronics'
     - 'Hobbies'
-date: 2024-07-16T13:34:06Z
-draft: true
+date: 2024-07-17T13:34:06Z
+draft: false
 ---
 
 {{< lead >}}
@@ -76,8 +76,32 @@ inches and repeat. There was one more door that we had to clear before we could 
 point one of our neighbors happened by and offered to help with the process as well. With the four of us
 we managed to get the machine the rest of the way to its final location and get the backbox and legs reinstalled.
 
-## Setup
+## First Flips
+Now that the machine was in place it was time to power it up for the first time and see how it played.
+Initially I was worried that something electrical had been damaged in the move because the switches in
+the ball trough were not registering the position of the balls (and I had installed them), but it turned
+out that one of the connectors I had disconnected in the backbox before I thought better of disconnecting
+everything hadn't been plugged back in. With that hiccup worked out, the game was playing great for its
+age! Targets were all registering, the shots were makeable, and we were able to get back to the 50s to
+hear the physical chimes in the cabinet doing their thing. There were a few issues, but nothing that stopped
+us from enjoying the result of the harrowing process of moving the thing.
 
 ## Repairs
+I'll probably go into more detail in a future post, but I'll summarize the main issues I've addressed since
+bringing the machine home. Firstly the end of stroke switch on the right flipper was only registering 
+intermittently. This is the switch that lets you cycle the top lanes, as well as enter in initials on the 
+high score table. I re-soldered the diode for that switch and that solved the issue. Secondly the flippers
+were in need of a rebuild. It was especially apparent on the left where the flipper was travelling much
+farther upward than the right flipper, but they both were feeling a bit underpowered. I replaced some
+parts on them with a rebuild kit from [Pinball Life](https://www.pinballlife.com/) and they're feeling
+much better now. There are a few more parts that need adjustment or repairs, but I'll be chipping away at
+them as I go, and I'll probably make another post about the work I've been doing.
 
 ## Fun!
+I've been really enjoying having my own pinball machine both for practicing my flipper skills as well as
+for tinkering with. I have ideas for some mods I want to make for the machine, and there are some non-urgent
+repairs that I'll need more time and preparation to undertake. It's been fun showing the machine to my
+friends and seeing them get into trying to improve their scores. Maybe if I can get enough people together
+I could host a little tournament. This probably won't be a machine I keep forever, but I'm already learning
+a lot about pin maintenance and repair. I aim to have fun with it, hone my skills, and eventually leave it
+better than I found it when its time to make room for something new.
