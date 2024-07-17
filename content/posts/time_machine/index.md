@@ -29,8 +29,23 @@ realized. While I was a little deflated following my own excitement about that p
 machine, I started looking at nearby listings on the 
 [Pinside marketplace](https://pinside.com/pinball/market).
 
+Almost right away I happened upon a listing for a Data East *Time Machine* in good condition
+that was not far from home and was going for a reasonable price. This machine caught my eye
+because I had played it before at a nearby arcade and noticed a very cool gimmick that it has.
+During play you'll travel back in time to the 70s, 60s, and 50s (from the present 80s of course)
+and when you reach the 50s the game has physical chimes to replicate the sound of those original
+electromechanical games. On top of the fun gimmicks I really enjoy the non-licensed theme of the
+game which makes it something that anyone could be interested regardless of knowing anything
+about an IP that the machine is tied to.
+
+![My Time Machine set up in the corner of our basement. The lights are off to better showcase the warm, 
+    incandescent glow coming from the machine.](feature_uncropped.jpg "Time Machine on the day we got it home")
 
 ## Transport
+Getting this massive thing on to and off of a truck and into our basement was a bit of an ordeal.
+I intended to rent a van from Home Depot to transport the pin in, but when I arrived they only
+had flatbed trucks available. While this worked, it resulted in having to lift the machine to nearly
+shoulder-height rather than loading it into a much more reasonable vehicle. 
 
 ## Setup
 
