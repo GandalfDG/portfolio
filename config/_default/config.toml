@@ -15,7 +15,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
-timeout = 90s
+timeout = "90s"
 
 # googleAnalytics = "G-XXXXXXXXX"
 
