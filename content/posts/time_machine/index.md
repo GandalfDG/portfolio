@@ -39,7 +39,7 @@ game which makes it something that anyone could be interested regardless of know
 about an IP that the machine is tied to.
 
 ![My Time Machine set up in the corner of our basement. The lights are off to better showcase the warm, 
-    incandescent glow coming from the machine.](feature_uncropped.jpg "Time Machine on the day we got it home")
+    incandescent glow coming from the machine.](feature_uncropped.jpg "Time Machine on the day we got it home.")
 
 ## Packing and Transport
 Getting this massive thing on to and off of a truck and into our basement was a bit of an ordeal.
@@ -96,6 +96,9 @@ farther upward than the right flipper, but they both were feeling a bit underpow
 parts on them with a rebuild kit from [Pinball Life](https://www.pinballlife.com/) and they're feeling
 much better now. There are a few more parts that need adjustment or repairs, but I'll be chipping away at
 them as I go, and I'll probably make another post about the work I've been doing.
+
+![The left flipper mechanism was especially in need of a rebuild. The flipper has been removed and the arm that moves
+it is hanging free in preparation for removal.](left_flipper_mech.jpg "The left flipper mechanism was especially in need of a rebuild.")
 
 ## Fun!
 I've been really enjoying having my own pinball machine both for practicing my flipper skills as well as
