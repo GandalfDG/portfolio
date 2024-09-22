@@ -1,7 +1,7 @@
 ---
 title: What's Happening Now?
 layout: single
-date: 2024-07-05T15:06:03-04:00
+date: 2024-09-22T12:37:16-04:00
 draft: false
 ---
 ## 🛠️ Working On
@@ -14,18 +14,18 @@ QOL features like a timed ball-save.
 
 Creating a custom design for Kiersten's website to better match her personal brand. I started with a Hugo template but it was limited and didn't really match her style. Check it out at [mskiersten.com](https://mskiersten.com)
 
-
 Starting to work more seriously on helping my wife produce musical children's content for her _Ms. Kiersten's Music Corner_ concept. Learning to shoot footage for chroma keying, and designing 3D sets for backgrounds in Blender.
 
 ## 🌞 Touching Grass
 
+- Biking
+  - Bought a side basket for my rear rack so I can carry stuff more easily
+  - Took a dremel to some rusty patches and hit them with some primer. The bike is old enough now that I might just repaint the whole frame sometime
 - Rollerblading
-  - switched out 4x80 frames for 3x110
-  - took them out to the Boston Marathon route to shoot some photos near Heartbreak Hill in Newton - [blog post here](/posts/boston_marathon_24)
-  - still dialing in the frame positioning to get rid of unwanted ankle supination
 
 ## 🎧 Listening To
 
+- Michael Jackson
 - Atavista - Childish Gambino
 - The Beths
 - The Voidz
@@ -36,19 +36,18 @@ Starting to work more seriously on helping my wife produce musical children's co
 
 ### In Progress
 
-- Lullabies for Little Criminals - Heather O'Neill
+- Joyland - Stephen King
 - Dune Messiah - Frank Herbert
 
 ### Finished
 
+- Lullabies for Little Criminals - Heather O'Neill
 - [Rental Person Who Does Nothing](https://app.thestorygraph.com/books/c7b5f7a6-586d-4a42-b7f6-7bf8256279ed) - Shoji Morimoto
 - Going Postal - Terry Pratchett (Audiobook)
 
 ## 📺 Watching
 
-- Community S2 (rewatch)
-- Broad City S5
-
+- Looking for a new show to get into. Feeling like a single-season anime but not sure what I want really.
 ## The Back Burner
 
 Reimplementing the PhysicsBehavior node and its derived nodes for the
