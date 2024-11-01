@@ -18,4 +18,5 @@ links = [
   { email = "mailto:jackacase+portfolio@gmail.com" }, 
   { github = "https://github.com/GandalfDG" },
   { linkedin = "https://www.linkedin.com/in/jackacase/"},
-  { mastodon = "https://indieweb.social/@GandalfDG" } ]
+  { mastodon = "https://indieweb.social/@GandalfDG" },
+  { twitch = "https://www.twitch.tv/gandalfdagreat" } ]
