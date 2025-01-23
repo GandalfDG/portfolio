@@ -1,39 +1,44 @@
 ---
 title: What's Happening Now?
 layout: single
-date: 2024-11-01T16:37:13-04:00
+date: 2025-01-23T14:26:12+00:00
 draft: false
 ---
 ## 🛠️ Working On
 
-I've started streaming somewhat regularly on my [Twitch Channel](https://www.twitch.tv/gandalfdagreat)! A random
-Amazon screwup led to me receiving four tripods rather than the one I ordered, so now I have one mounted above
-my pinball machine. I've been streaming my [Time Machine](/posts/time_machine), as well as some Pinball FX
-virtual tables and working on developing my own virtual pinball engine in Godot. Follow my channel to get notified
-when I go live. I usually stream pinball on Fridays at 7 P.M. Eastern and game development on Saturday evenings.
+I've been too busy for blogging, but that's because I've been shooting and now
+editing the pilot for my wife's children's TV show *Lilypad Library!* It's a show
+incorporating puppets and live actors to talk about neurodivergent issues and emotional
+intelligence. I think she aims to be a Mr. Rogers for today's kids (not that Mr. Rogers has lost his relevance.)
+She's going to show off this pilot in a few weeks at the KidScreen conference in San Diego,
+so I'm working my butt off on it!
+![Lilypad Library Logo](lilypad_logo.jpg)
+
+Here are some pictures from filming and during the editing process.
+![Studio BTS](filming.jpg)
+![Kiersten with Lotsa and Dots](kier_n_puppets.jpg)
+![Messy desk where I edit](edit_workstation.jpg)
+
 
 
 ## 🌞 Touching Grass
 
-- Biking
-  - Bought a side basket for my rear rack so I can carry stuff more easily
-  - Took a dremel to some rusty patches and hit them with some primer. The bike is old enough now that I might just repaint the whole frame sometime
-- Rollerblading
+I haven't been touching much grass, mostly shoveling snow and trying to stay
+cozy.
 
 ## 🎧 Listening To
 
-- Elton John
-- ABBA
-- Persona OSTs
-- Mint Green
-- 100 Gecs
+- John Williams
+- Hans Zimmer
 
 ## 📖 Reading
 
 ### In Progress
 
-- Rendezvous with Rama - Arthur C. Clarke
-- Dune Messiah - Frank Herbert
+Haven't been reading many "book" books, but recently I've been reading some miniature game rulebooks,
+and I've been reading up a lot on some technical stuff for projects I've been thinking about starting.
+
+Also reading the Pandas docs every day for work 😅
 
 ### Finished
 
@@ -44,10 +49,6 @@ when I go live. I usually stream pinball on Fridays at 7 P.M. Eastern and game d
 
 ## 📺 Watching
 
-- [Planetes](https://myanimelist.net/anime/329/Planetes)
-- Clarkson's Farm
-
-
-
-
-
+- Bob's Burgers
+- Rick and Morty
+- Austin Powers (I'd never seen them)
