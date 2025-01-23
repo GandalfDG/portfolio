@@ -19,7 +19,7 @@ Here are some pictures from filming and during the editing process.
 ![Kiersten with Lotsa and Dots](kier_n_puppets.jpg)
 ![Messy desk where I edit](edit_workstation.jpg)
 
-
+Oh yeah, we are also almost done buying a house. So I've been busy with that process too 😅
 
 ## 🌞 Touching Grass
 
