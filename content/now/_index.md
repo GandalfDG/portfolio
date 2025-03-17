@@ -1,44 +1,47 @@
 ---
 title: What's Happening Now?
 layout: single
-date: 2025-01-23T14:26:12+00:00
+date: 2025-03-17T12:02:39-04:00
 draft: false
 ---
 ## 🛠️ Working On
 
-I've been too busy for blogging, but that's because I've been shooting and now
-editing the pilot for my wife's children's TV show *Lilypad Library!* It's a show
-incorporating puppets and live actors to talk about neurodivergent issues and emotional
-intelligence. I think she aims to be a Mr. Rogers for today's kids (not that Mr. Rogers has lost his relevance.)
-She's going to show off this pilot in a few weeks at the KidScreen conference in San Diego,
-so I'm working my butt off on it!
-![Lilypad Library Logo](lilypad_logo.jpg)
+My wife and I bought our first house! It was built in 1925, but most of the appliances were replaced
+within the past few years. It has an amount of built-in storage space to match the year it was built,
+but it's nothing a few trips to Ikea can't fix. I have discovered a minor leak which I need to go up
+into the attic to investigate, but I remain optimistic. It's nice no longer being a tenant, and there's
+something intoxicating about drilling holes in walls and making a place truly my own.
 
-Here are some pictures from filming and during the editing process.
-![Studio BTS](filming.jpg)
-![Kiersten with Lotsa and Dots](kier_n_puppets.jpg)
-![Messy desk where I edit](edit_workstation.jpg)
+Home projects are now taking the majority of my free time, but I've found a few
+hours to sit down and start playing the copy of [Earthborne Rangers](https://earthbornegames.com/the-game/) which we ordered about a year
+ago on the recommendation of Shut Up and Sit Down's [glowing review](https://www.shutupandsitdown.com/videos/review-earthborne-rangers/).
+It's sort of a piece of solarpunk future fantasy, which is a nice world to escape into with the help
+of simple yet intricate deckbuilding mechanics.
 
-Oh yeah, we are also almost done buying a house. So I've been busy with that process too 😅
+I was able to finish the pilot for my wife's childrens television concept, *Lilypad Library* in
+time for the Kidscreen conference where she pitched the project to a lot of interesting people who
+seemed very interested in her work in turn. You can watch the pilot on [YouTube](https://www.youtube.com/watch?v=BpcV3pngPI8) 
+and if you like it please share it with parents of young children and anyone
+else who enjoys puppets sharing wisdom about mental health and inclusion.
+
+![A frame from the pilot for Lilypad Library](lilypad_screengrab.png)
 
 ## 🌞 Touching Grass
 
-I haven't been touching much grass, mostly shoveling snow and trying to stay
-cozy.
+Still haven't touched much grass, but moving was a real workout. The weather is warming
+up though, so I'm looking forward to getting out and exploring our new town by rollerblade.
 
 ## 🎧 Listening To
 
-- John Williams
-- Hans Zimmer
+- [FTL Original Soundtrack](https://youtu.be/nbuXDKbWF9w?si=RxOXTVxTSMvfbKbi)
+- [Tech Won't Save Us Podcast](https://www.techwontsave.us/)
+- [Sports Team](https://music.youtube.com/channel/UCrEltYDBfDP10nmlca38-vA?si=lHt5x0s6CRHEmali)
 
 ## 📖 Reading
 
 ### In Progress
 
-Haven't been reading many "book" books, but recently I've been reading some miniature game rulebooks,
-and I've been reading up a lot on some technical stuff for projects I've been thinking about starting.
-
-Also reading the Pandas docs every day for work 😅
+- Serling : the rise and twilight of television's last angry man
 
 ### Finished
 
@@ -50,5 +53,4 @@ Also reading the Pandas docs every day for work 😅
 ## 📺 Watching
 
 - Bob's Burgers
-- Rick and Morty
-- Austin Powers (I'd never seen them)
+- Planetes
