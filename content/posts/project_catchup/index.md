@@ -3,8 +3,8 @@ title: 'Catching Up on Personal Projects'
 summary: "I've been busy, but I finally feel like I'm back on track and ready to tackle projects again"
 tags:
     - ''
-date: 2025-04-01T18:57:34-04:00
-draft: true
+date: 2025-04-02T20:49:11-04:00
+draft: false
 ---
 
 {{< lead >}}
