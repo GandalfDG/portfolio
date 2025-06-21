@@ -29,7 +29,7 @@ My first "real" coaster was a big step up from the little *Thriller*, and it was
 *Superman the Ride* at Six Flags New England, formerly *Bizarro* and before that
 *Superman - Ride of Steel*. If you're familiar with the ride you're probably thinking
 that's an ambitious first ride, and you'd be right. There are some taller, faster,
-more intense coasters out there, but it's really the full package with a 200+ foot drop
+more intense coasters out there, but it's the full package with a 200+ foot drop,
 sustained ejector and floater airtime, intense positive Gs in the spaghetti bowl section,
 and all with wide open trains without anything obvious to hold on to. If I were to discover
 the joys of roller coasters all over again, let's say it's not what I would have started with.
@@ -68,3 +68,16 @@ I now knew, was renowned for their smooth rides so it seemed like a good way to 
 and experience my first inversions. It also helped that it has a curved drop rather than the 
 intimidating straight drop of *Superman*. While it didn't blow me away, I managed to keep breathing
 and even enjoy the sensations, especially of the zero-g roll in the middle of the layout.
+
+![Batman the Dark Knight's interlocking corkscrews](batman_corkscrew.jpg "Batman the Dark Knight's interlocking corkscrew element - My Photo")
+
+I made it through a few more rides that day, though Superman was still off the agenda for
+the time being. It wasn't until I got up the courage to ride Wicked Cyclone, Rocky Mountain
+Construction's (RMC) reimagining of the Riverside Cyclone that it all clicked. The relentless
+pops of ejector airtime, non-stop pacing, and buttery smoothness of RMC's i-box track got me
+completely hooked. As soon as I got off I was ready to ride again.
+
+![Wicked Cyclone's lift, 200-degree stall, and Double-down](wicked_cyclone.jpg "Wicked Cyclone's lift, 200-degree stall, and Double-down")
+
+## Travelling to Ride
+
