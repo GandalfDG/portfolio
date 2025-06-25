@@ -81,3 +81,22 @@ completely hooked. As soon as I got off I was ready to ride again.
 
 ## Travelling to Ride
 
+One park's coaster collection isn't enough. There are so many iconic rides I
+want to ride! At the end of a spring semester in Rochester, Kiersten and I took
+a trip to Cedar Point in Ohio. We stopped along the way at the Erie Zoo, and
+then made it to our hotel. The morning before actually entering the park I could
+barely eat. I was so nervous to be so far from home, to be feeling unwell in an
+unfamiliar place, and above all not wanting to spoil our enjoyment of this trip.
+I was also nervously checking the weather. What would I do if rain stopped us
+from riding anything at all? With ominous clouds rolling in we made our way into
+the park. 
+
+I had hoped to start the day with a ride on Gatekeeper which would be a smooth
+and approachable B&M ride, but it wasn't running due to the impending weather.
+Instead we got in line for Valravn, which intimidated me with its 200'
+completely vertical drop. Still not feeling 100% we boarded the train and there
+was no turning back. As we dropped straight down feeling the first drops of
+rain from the gathering storm, the wave of adrenaline washed over me and my mind
+and body remembered that in fact, I love rollercoasters. What a relief!
+
+
