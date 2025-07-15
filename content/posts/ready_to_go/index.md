@@ -99,4 +99,14 @@ was no turning back. As we dropped straight down feeling the first drops of
 rain from the gathering storm, the wave of adrenaline washed over me and my mind
 and body remembered that in fact, I love rollercoasters. What a relief!
 
+We thoroughly enjoyed the rest of our stay at Cedar point, riding all of their
+great coasters. While we were most excited about the new Steel Vengeance, it was
+Maverick that truly stole my heart. It's a ride that proves that record-breaking
+drops and top speeds aren't what makes a coaster most enjoyable. That said, it was
+the tallest, fastest ride at the park, *Top Thrill Dragster* which still worried me.
 
+## Top Thrill Dragster
+
+*Top Thrill Dragster*'s 420 foot tophat element is a landmark feature of Cedar Point's
+skyline. Walking alongside the launch track where trains are accelerated to top speed
+by the powerful hydraulic cable system 
