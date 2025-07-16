@@ -99,14 +99,25 @@ was no turning back. As we dropped straight down feeling the first drops of
 rain from the gathering storm, the wave of adrenaline washed over me and my mind
 and body remembered that in fact, I love rollercoasters. What a relief!
 
+![On-ride photo of my wife and I on Valravn. This was moments before a torrential downpour, so it's extremely dark](valravn.jpg "On-ride photo of my wife and I on Valravn. This was moments before a torrential downpour, so it's extremely dark")
+
 We thoroughly enjoyed the rest of our stay at Cedar point, riding all of their
 great coasters. While we were most excited about the new Steel Vengeance, it was
 Maverick that truly stole my heart. It's a ride that proves that record-breaking
 drops and top speeds aren't what makes a coaster most enjoyable. That said, it was
 the tallest, fastest ride at the park, *Top Thrill Dragster* which still worried me.
 
+![On-ride photo from Maverick. Still one of my favorite rides ever!](maverick.jpg "On-ride photo from Maverick. Still one of my favorite rides ever!")
+
 ## Top Thrill Dragster
 
 *Top Thrill Dragster*'s 420 foot tophat element is a landmark feature of Cedar Point's
 skyline. Walking alongside the launch track where trains are accelerated to top speed
-by the powerful hydraulic cable system 
+by the powerful hydraulic cable system was a constant reminder of this ride that still
+terrified me. I knew I had to ride it, but I had to work up to it. Our time to leave and
+get back on the road for home was approaching, we were both tired from full days of
+walking and riding. I very nearly left the park without checking Top Thrill off the list
+but we got in line. We made it very nearly into the station when the ride broke down. I
+knew it was a notoriously unreliable ride, but having come this far I knew we had to
+wait for it to come back up. Waiting at the station we could hear the music playing over
+and over, *Ready to Go* by Republica.
